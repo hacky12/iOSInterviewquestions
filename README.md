@@ -18,8 +18,8 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 ## iOS
 - [Bounds 와 Frame 의 차이점을 설명하시오.](https://zeddios.tistory.com/203)
  ```
-    Frame( SuperView)
-    Bounds( Self)
+ Frame(in SuperView)
+ Bounds(in Self)
  ```
 - 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
 - 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?
